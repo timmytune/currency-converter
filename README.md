@@ -9,7 +9,7 @@ this is a simple project but does a good job of currency conversion
 ``` bash
 
 # clone the repo
-git clone https://github.com/p-adams/currency-converter
+git clone https://github.com/timmytune/currency-converter.git
 
 # install dependencies
 npm install
